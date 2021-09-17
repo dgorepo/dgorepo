@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**repodgo/repodgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Dgo:
+
+    def __init__(self):
+        self.name = 'dgo'
+        self.mail = 'inboxdgo@gmail.com'
+        self.twitter = '@tweetsdgo'
+        self.devto = '@postsdgo'
+
+    def __str__(self):
+        return self.name
+
+
+if __name__ == '__main__':
+    me = Dgo()
+
+
+```
+ 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
