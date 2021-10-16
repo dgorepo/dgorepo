@@ -1,3 +1,16 @@
+# Diego Alves
+
+**Working at @vcminvest**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegomoal/)](https://www.linkedin.com/in/diegomoal/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inboxdgo@gmail.com)](mailto:inboxdgo@gmail.com)
+
+- 🔭 I'm currently working with **Software Development** and **Data Science**
+- 🌱 I’m currently learning about **Data Engineer**
+
+Passionate about education and data enthusiastic
+
+"Be brave, be curious, be determined, overcome the odds. It is possible"
 
 
 
