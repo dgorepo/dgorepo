@@ -8,9 +8,11 @@
 - 🔭 I'm currently working with **Software Development** and **Data Science**
 - 🌱 I’m currently learning about **Data Engineer**
 
-Passionate about education and data enthusiastic
+Passionate about technology and innovation
 
-"Be brave, be curious, be determined, overcome the odds. It is possible"
+"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+*( Albert Einstein )*
+<br><br>
 
 
 
