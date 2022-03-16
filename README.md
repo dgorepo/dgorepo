@@ -22,7 +22,6 @@ class Dgo:
     def __init__(self):
         self.name = 'dgo'
         self.mail = 'inboxdgo@gmail.com'
-        self.twitter = '@dgotweets'
         self.devto = '@dgoposts'
 
     def __str__(self):
