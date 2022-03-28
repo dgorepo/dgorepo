@@ -1,12 +1,9 @@
-# Diego Alves
+[![Screenshot-from-2022-03-28-13-33-45.png](https://i.postimg.cc/qR483qDc/Screenshot-from-2022-03-28-13-33-45.png=1500x500)](https://postimg.cc/v12gRYsD)
 
-**Working at @vcminvest**
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegomoal/)](https://www.linkedin.com/in/diegomoal/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inboxdgo@gmail.com)](mailto:inboxdgo@gmail.com)
-
-- 🔭 I'm currently working with **Software Development** and **Data Science**
-- 🌱 I’m currently learning about **Data Engineer**
+![GitHub Views](https://komarev.com/ghpvc/?username=dgorepo&color=6c25be)
+![golang](https://img.shields.io/badge/Golang-Fan-6c25be.svg)
+![email](https://img.shields.io/badge/Email-me-6c25be.svg?logo=gmail&logoWidth=20)
+![linkedin](https://img.shields.io/badge/Linkedin-Follow%20Me-6c25be.svg?logo=linkedin&logoWidth=20)
 
 Passionate about technology and innovation
 
@@ -34,4 +31,4 @@ if __name__ == '__main__':
 
 ```
  
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-6c25be.svg)](https://www.python.org/)
