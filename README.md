@@ -5,7 +5,7 @@
 ![email](https://img.shields.io/badge/Email-me-6c25be.svg?logo=gmail&logoWidth=20)
 ![linkedin](https://img.shields.io/badge/Linkedin-Follow%20Me-6c25be.svg?logo=linkedin&logoWidth=20)
 
-Passionate about technology and innovation
+Passionate about technology and innovation.
 
 "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
 *( Albert Einstein )*
@@ -13,22 +13,28 @@ Passionate about technology and innovation
 
 
 
-```python
-class Dgo:
+```golang
 
-    def __init__(self):
-        self.name = 'dgo'
-        self.mail = 'inboxdgo@gmail.com'
-        self.devto = '@dgoposts'
+package main
 
-    def __str__(self):
-        return self.name
+import "fmt"
 
+type Dgo struct {
+    Name string
+    Mail string
+    Devto string
+}
 
-if __name__ == '__main__':
-    me = Dgo()
+func main() {
 
+    dgo := Dgo {
+        Name: "Diego Alves",
+        Mail: "inboxdgo@gmail.com",
+        Devto: "@dgoposts",
+	}
+    
+    fmt.Println(dgo)
+
+}
 
 ```
- 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-6c25be.svg)](https://www.python.org/)
