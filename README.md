@@ -1,8 +1,7 @@
 [![Screenshot-from-2022-03-28-13-33-45.png](https://i.postimg.cc/qR483qDc/Screenshot-from-2022-03-28-13-33-45.png=1500x500)](https://postimg.cc/v12gRYsD)
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](inboxdgo@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diego@caixa-postal.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomoal)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atuariodedados)
 
 <br>
 
