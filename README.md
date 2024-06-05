@@ -1,4 +1,4 @@
-[![Screenshot-from-2022-03-28-13-33-45.png](https://i.postimg.cc/qR483qDc/Screenshot-from-2022-03-28-13-33-45.png=1500x500)](https://postimg.cc/v12gRYsD)
+[![dgorepo.png](https://i.postimg.cc/fW5PxBqZ/dgorepo.png)](https://postimg.cc/Hjc3m4CP)
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diego@caixa-postal.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomoal)
