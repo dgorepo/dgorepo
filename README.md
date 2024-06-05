@@ -3,13 +3,6 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diego@caixa-postal.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomoal)
 
-<br>
-
-
-Passionate about technology and innovation.
-
-
-<br><br>
 
 
 
@@ -27,7 +20,7 @@ type Dgo struct {
 
 func main() {
 
-    dgo := Dgo { Name: "Diego Alves", Mail: "inboxdgo@gmail.com", Devto: "@dgoposts", }
+    dgo := Dgo { Name: "Diego Moreira Alves", Mail: "diego@caixa-posts.com", }
     fmt.Println(dgo)
 
 }
