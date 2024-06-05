@@ -15,7 +15,6 @@ import "fmt"
 type Dgo struct {
     Name string
     Mail string
-    Devto string
 }
 
 func main() {
