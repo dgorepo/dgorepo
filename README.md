@@ -19,8 +19,8 @@ type Dgo struct {
 
 func main() {
 
-    dgo := Dgo { Name: "Diego Moreira Alves", Mail: "diego@caixa-posts.com", }
-    fmt.Println(dgo)
+    diegomoal := Diegomoal { Name: "Diego Moreira Alves", Mail: "diego@caixa-posts.com", }
+    fmt.Println(diegomoal)
 
 }
 
