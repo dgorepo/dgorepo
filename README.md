@@ -1,4 +1,4 @@
-[![Captura-de-Tela-2024-06-04-a-s-23-24-42.png](https://i.postimg.cc/gjNkp8KR/Captura-de-Tela-2024-06-04-a-s-23-24-42.png)](https://postimg.cc/xNNSykhT)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomoal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@caixa-postal.com)
@@ -12,7 +12,7 @@ package main
 
 import "fmt"
 
-type Dgo struct {
+type Diegomoal struct {
     Name string
     Mail string
 }
