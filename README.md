@@ -19,7 +19,7 @@ type Diegomoal struct {
 
 func main() {
 
-    diegomoal := Diegomoal { Name: "Diego Moreira Alves", Mail: "diego@caixa-posts.com", }
+    diegomoal := Diegomoal { Name: "Diego Moreira Alves", Mail: "diego@caixa-postal.com", }
     fmt.Println(diegomoal)
 
 }
